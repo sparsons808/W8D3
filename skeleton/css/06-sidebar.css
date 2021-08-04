@@ -1,1 +1,20 @@
 /* PHASE 0: Sidebar */
+
+.profile-picture {
+    display: block;
+    position: relative;
+    margin-top: -190px;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+}
+
+
+.content-sidebar {
+    background: #f00;
+}
+
+.profile-nav {
+    border-top: 1px solid rgb(6, 30, 243);
+}
