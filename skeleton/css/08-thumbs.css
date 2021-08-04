@@ -1,2 +1,25 @@
 /* PHASE 2: Thumbs */
 
+.thumb li img {
+    /* size: 20%;
+    border-radius: 50%; */
+    /* border: 1px solid #ddd; */
+    border-radius: 8px;
+    padding: 5px;
+    /* width: 50px; */
+}
+
+.thumb ul {
+    display: flexbox;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 20.333333333333333%;
+}
+
+/* .thumb-1, .thumb-2, .thumb-3, .thumb-4, .thumb-5, .thumb-6, .thumb-7, .thumb-8, .thumb-9 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 33.333333333333333%;
+    
+} */
